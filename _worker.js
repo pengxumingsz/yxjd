@@ -14,11 +14,11 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://3k.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
-https://vmess.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://proxyip.digitalocean.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://proxyip.oracle.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://proxyip.aliyun.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://3k.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://vmess.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://bestcf.onecf.eu.org/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://bestproxy.onecf.eu.org/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://8.210.175.109/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
