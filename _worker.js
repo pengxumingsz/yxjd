@@ -14,7 +14,6 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://pagesvless2sub.szpengxuming.us.kg/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 http://103.196.20.127/api/v1/client/subscribe?token=e6c4a8fc9abeaae21f9adfc594eb9a37&types=vless
 `
 
