@@ -14,7 +14,6 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-
 https://3k.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://vmess.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
 https://3k.fxxk.dedyn.io/sub?host=t-NETplUS.paGES.deV&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
