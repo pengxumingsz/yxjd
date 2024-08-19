@@ -14,16 +14,8 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://3k.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
-https://vmess.fxxk.dedyn.io/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
-https://3k.fxxk.dedyn.io/sub?host=t-NETplUS.paGES.deV&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
-https://3k.fxxk.dedyn.io/sub?host=ip11.freegradely.xyz&uuid=e9e3cc13-db48-4cc1-8c24-7626439a5339&path=github.com/Alvin9999
-https://3k.fxxk.dedyn.io/sub?host=ip2.1457230.xyz&uuid=e9e3cc13-db48-4cc1-8c24-7626439a5339&path=github.com/Alvin9999
-https://3k.fxxk.dedyn.io/sub?host=ip14.freegradely.xyz&uuid=e9e3cc13-db48-4cc1-8c24-7626439a5339&path=github.com/Alvin9999
-https://vmess.fxxk.dedyn.io/sub?host=t-NETplUS.paGES.deV&uuid=89b3cbba-e6ac-485a-9481-976a0415eab9&path=/3az8RcYcqoxUULfw/NDcuMjQ1Ljg2LjIzMA==?ed=2560
-https://vmess.fxxk.dedyn.io/sub?host=ip11.freegradely.xyz&uuid=e9e3cc13-db48-4cc1-8c24-7626439a5339&path=github.com/Alvin9999
-https://vmess.fxxk.dedyn.io/sub?host=ip2.1457230.xyz&uuid=e9e3cc13-db48-4cc1-8c24-7626439a5339&path=github.com/Alvin9999
-https://vmess.fxxk.dedyn.io/sub?host=ip14.freegradely.xyz&uuid=e9e3cc13-db48-4cc1-8c24-7626439a5339&path=github.com/Alvin9999
+https://pagesvless2sub.szpengxuming.us.kg/sub?host=jd.szpengxuming.us.kg&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+http://103.196.20.127/api/v1/client/subscribe?token=e6c4a8fc9abeaae21f9adfc594eb9a37&types=vless
 `
 
 let urls = [];
