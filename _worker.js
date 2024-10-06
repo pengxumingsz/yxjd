@@ -14,10 +14,12 @@ let cacheTTL = 24 ;//小时，缓存时长
 
 //节点链接 + 订阅链接
 let MainData = `
-https://pagesvless2sub.szpengxuming.nyc.mn/sub?host=tg.cmliussss.elementfx.com&uuid=27b644d3-d9e8-45b2-96db-36ac1d00d50d&path=/?ed=2560
-https://pagesvless2sub.szpengxuming.nyc.mn/sub?host=irvless.szpengxuming.NYC.MN&uuid=b321fd5d-e6ec-4293-a644-164e3885f52e&path=/adenc36v.xtooltech.cfd:443/linkws
-https://pagesvless2sub.szpengxuming.nyc.mn/sub?host=yaemiko.eula.cloudns.org&uuid=e31d5ad8-4288-48e7-98f4-f4fdf4dd8907&path=/
-https://pagesvless2sub.szpengxuming.nyc.mn/sub?host=vt.szpengxuming.US.kG&uuid=81218129-328a-5e77-ae39-9cff14f4d17d&path=vless-ws/?ed=2048
+https://cfcdn.szpengxuming.nyc.mn/sub?host=tg.cmliussss.elementfx.com&uuid=27b644d3-d9e8-45b2-96db-36ac1d00d50d&path=/?ed=2560
+https://cfcdn.szpengxuming.nyc.mn/sub?host=3k.szpengxuming.nyc.mn&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://vless.durl.nyc.mn/sub?host=3k.szpengxuming.nyc.mn&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://alvless.comorg.us.kg/sub?host=3k.szpengxuming.nyc.mn&uuid=8f40e165-c9db-478d-b761-f3c8509a0bee&path=/?ed=2048
+https://vless.durl.nyc.mn/sub?host=tg.cmliussss.elementfx.com&uuid=27b644d3-d9e8-45b2-96db-36ac1d00d50d&path=/?ed=2560
+https://alvless.comorg.us.kg/sub?host=tg.cmliussss.elementfx.com&uuid=27b644d3-d9e8-45b2-96db-36ac1d00d50d&path=/?ed=2560
 `
 
 let urls = [];
